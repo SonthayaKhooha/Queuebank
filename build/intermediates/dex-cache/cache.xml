@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/sonthaya/.android/build-cache/856fb4b64bcf5cdf690d49bcf989c6aebaba51c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/sonthaya/AndroidStudioProjects/Queuebank/app/build/intermediates/pre-dexed/debug/classes_3cf2a8aff8e3678c4b7769f363048c8519d92c86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sonthaya/.android/build-cache/16ef66a0ab8787ea770000e904e1abcb67ee5723/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sonthaya/AndroidStudioProjects/Queuebank/app/build/intermediates/pre-dexed/debug/classes_dbc1e83731b9e5c1ce045a91cf4a7c298d77e236.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sonthaya/.android/build-cache/a142b451d7aecd90dfa0d0edb054d686c66c9ee3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/sonthaya/AndroidStudioProjects/Queuebank/app/build/intermediates/pre-dexed/debug/classes_5c32e62d3902667f6bfcc9777d03186794514911.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sonthaya/.android/build-cache/9da3b026a41c61c9c9bc34e96132617d9d253c6f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/sonthaya/AndroidStudioProjects/Queuebank/app/build/intermediates/pre-dexed/debug/classes_f507d519a6eb6af48ae352f1f093b513e4e13826.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sonthaya/.android/build-cache/8155e375d0a09b8f0092426ed9a08aeb344878c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/sonthaya/AndroidStudioProjects/Queuebank/app/build/intermediates/pre-dexed/debug/classes_28bfa601a26434f3f2d86d15f4710d172d66f2a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sonthaya/.android/build-cache/bafbb18ec9b77cb3c2671275dea35add60f522a8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/sonthaya/AndroidStudioProjects/Queuebank/app/build/intermediates/pre-dexed/debug/classes_b646fbd1e6486111ecd63a0b80157328be492e0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sonthaya/.android/build-cache/42fba2e300b4f37ab5646a884bb93eee1958e63c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/sonthaya/AndroidStudioProjects/Queuebank/app/build/intermediates/pre-dexed/debug/classes_c2d2af028fe1fbff68580ecf8a229d80804e0666.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sonthaya/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/sonthaya/AndroidStudioProjects/Queuebank/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_6b038c4e7830df720d03d6cc93372d50a74c859d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sonthaya/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/sonthaya/AndroidStudioProjects/Queuebank/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_2f460f1cb4fc961db3259140cad3c3b61b9fbbcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sonthaya/.android/build-cache/a024b9e9cd3c1b7c65b1f381e43d88326001e48d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/sonthaya/AndroidStudioProjects/Queuebank/app/build/intermediates/pre-dexed/debug/classes_6088e76d77dfb646abf53cdaecd87a7c209f82d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sonthaya/.android/build-cache/6759a22cb33418f49c37f1bca60af20486e7ef45/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/sonthaya/AndroidStudioProjects/Queuebank/app/build/intermediates/pre-dexed/debug/classes_b23cc000885b6f7569e3069bf4fbac4948f51681.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sonthaya/.android/build-cache/ba2d33bad03477519c111a1faccbb93f52846480/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/sonthaya/AndroidStudioProjects/Queuebank/app/build/intermediates/pre-dexed/debug/classes_4d6c89e26d6899233132365397d579631505e600.jar" />
+    </item>
+
+</items>
